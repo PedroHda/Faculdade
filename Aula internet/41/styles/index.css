@@ -1,0 +1,13 @@
+
+.bodyMain{
+    align-content: center;
+    border: 1px solid black;
+    /* border-left: -100px; */
+}
+.divAlight{
+    display: inline-block;
+    margin-right: 50px;
+}
+#firstImage{
+    padding-left: 30px;
+}

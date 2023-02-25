@@ -1,0 +1,23 @@
+
+#personImage{
+    /* margin-left: 100px; */
+}
+#personInfo{
+    margin-left: 30px;
+ }
+.divImage_Info{
+    display: inline-block;
+}
+.bodyHTML { 
+    width: 700px; 
+    border: 1px solid #000;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.bodyHTMLPadding{
+    padding: 15px;
+}
+#hr_RightSmall {
+    width: 100px;
+    margin-left: 0;
+}
